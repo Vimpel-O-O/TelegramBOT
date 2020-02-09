@@ -1,6 +1,5 @@
 ntplib==0.3.3
 pefile==2019.4.18
-PyInstaller==4.0.dev0+1eadfa55f2
 pyowm==2.10.0
 pyTelegramBotAPI==3.6.7
 pytz==2019.3
